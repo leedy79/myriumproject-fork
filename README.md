@@ -218,33 +218,57 @@ erd 다이어그램 사진
        
 ## 🗂️ PPT
 <details><summary>PPT</summary>
-  <div align="center">          
+<div align="center">
+  
+| ![슬라이드1](https://github.com/user-attachments/assets/a661b7a1-bef1-4f73-9eaa-199a6941794f) | ![슬라이드2](https://github.com/user-attachments/assets/2f4b8ff6-87b3-4823-906f-ac0796d7ce33) |
+| :---: | :---: |
+| ![슬라이드3](https://github.com/user-attachments/assets/a0461576-fadf-4eb2-bd13-fa96e374fadc) | ![슬라이드4](https://github.com/user-attachments/assets/33865d89-16d3-4f24-88ba-5a12f0ef57ac) |
+| ![슬라이드5](https://github.com/user-attachments/assets/b7b311a0-b848-4ab0-985d-c21fabad2dff) | ![슬라이드6](https://github.com/user-attachments/assets/f4862103-6fbb-46ab-b580-b6bef6b77968) |
+| ![슬라이드7](https://github.com/user-attachments/assets/d1d98d88-e420-48fc-b49d-e26bd8577ebe) | ![슬라이드8](https://github.com/user-attachments/assets/466da45f-827e-45b5-9846-0309fbde46a4) |
+| ![슬라이드9](https://github.com/user-attachments/assets/775db930-1b1a-4be7-817d-1fa9d221a887) | ![슬라이드10](https://github.com/user-attachments/assets/990f6e2e-6b00-466e-98a9-804be468f0cc) |
+| ![슬라이드11](https://github.com/user-attachments/assets/6fde377f-4ae4-47e0-9477-8748eabb9005) | ![슬라이드12](https://github.com/user-attachments/assets/9cf62e5d-4e4a-4e81-a96e-e1dfdd0481bd) |
+| ![슬라이드13](https://github.com/user-attachments/assets/2ce80869-7868-416a-960f-64016880eb42) | ![슬라이드14](https://github.com/user-attachments/assets/eed42637-7ba8-43c7-96aa-d57e2ee41f5d) |
+| ![슬라이드15](https://github.com/user-attachments/assets/3fe532a3-3615-419e-ae5b-ff0ee9a8dcc0) | ![슬라이드16](https://github.com/user-attachments/assets/11ca742a-8e7d-4867-a392-a54cfe3f807a) |
+| ![슬라이드17](https://github.com/user-attachments/assets/4381b53f-0625-4760-a4f0-02917c111a8e) | ![슬라이드18](https://github.com/user-attachments/assets/74c2fc78-aabd-4ac7-9aa9-bd9c5bd49fea) |
+| ![슬라이드19](https://github.com/user-attachments/assets/31467ef3-267c-4f85-b685-bd0a2a6ccf0b) | ![슬라이드20](https://github.com/user-attachments/assets/ed99fb42-150f-4095-be41-33d084a97949) |
+| ![슬라이드21](https://github.com/user-attachments/assets/c920939f-0621-4095-abbc-2f80aa6c74fe) | ![슬라이드22](https://github.com/user-attachments/assets/a6b40aa9-8644-4a2e-9935-be6b44253fe3) |
+| ![슬라이드23](https://github.com/user-attachments/assets/06355b0f-91d1-4c6e-b826-63fe4652a884) | ![슬라이드24](https://github.com/user-attachments/assets/806c063c-0014-4499-b520-983526548c02) |
+| ![슬라이드25](https://github.com/user-attachments/assets/ba2e5ff1-7c20-47d2-9390-5293e1da40c9) | ![슬라이드26](https://github.com/user-attachments/assets/21d03041-d845-4a31-a9a6-1217142aa500) |
+| ![슬라이드27](https://github.com/user-attachments/assets/dc87a541-26b0-4260-ae09-15d03b887431) | ![슬라이드28](https://github.com/user-attachments/assets/ec7ce523-ea15-4b05-aed1-769e97728373) |
+| ![슬라이드29](https://github.com/user-attachments/assets/6069833e-2634-477e-a21e-11ed8066e476) | ![슬라이드30](https://github.com/user-attachments/assets/aaff6258-f230-4817-aed1-e5ff11522d4e) |
+| ![슬라이드31](https://github.com/user-attachments/assets/f69ddde9-74f6-418f-bd93-0516bb0d2ea7) | ![슬라이드32](https://github.com/user-attachments/assets/8752f590-c11a-4cd0-b80f-07646ed5ed38) |
+| ![슬라이드33](https://github.com/user-attachments/assets/fb70efdd-7edf-4b65-9335-2eacb63c7a2d) | ![슬라이드34](https://github.com/user-attachments/assets/b7351739-6a6a-40f6-847c-8186906ed488) |
+| ![슬라이드35](https://github.com/user-attachments/assets/b125215a-389c-425f-9ecd-eb88d7b7ebe3) | ![슬라이드36](https://github.com/user-attachments/assets/d369ca41-6513-41c0-a090-1ec6b1d0b74c) |
+| ![슬라이드37](https://github.com/user-attachments/assets/bb875d87-2d39-4908-8381-acf27a0ecf81) | ![슬라이드38](https://github.com/user-attachments/assets/bbc24102-407f-4dfd-9d28-1f7e7f3b757a) |
+| ![슬라이드39](https://github.com/user-attachments/assets/2e45758d-ac3e-482e-bce9-d5c46e1555a0) | ![슬라이드40](https://github.com/user-attachments/assets/69c2bf7b-1f13-4109-953e-0a458c525358) |
+| ![슬라이드41](https://github.com/user-attachments/assets/56fd4da7-7742-47df-b0a2-42c0d1bd6665) | ![슬라이드42](https://github.com/user-attachments/assets/57f294fb-204e-4370-bce9-f1d3fdf860f5) |
+| ![슬라이드43](https://github.com/user-attachments/assets/d67ccb26-b334-463d-b870-3750132b0db9) | ![슬라이드44](https://github.com/user-attachments/assets/d204fd93-c12b-4ece-96b6-36234156a034) |
+| ![슬라이드45](https://github.com/user-attachments/assets/1d2afcd4-f42d-4705-a611-a5269e88240a) | ![슬라이드46](https://github.com/user-attachments/assets/d2846c97-6917-4af8-b5c6-a41544c5f148) |
+| ![슬라이드47](https://github.com/user-attachments/assets/d1e25852-ffe6-4d59-9df4-2f76966eaac1) | ![슬라이드48](https://github.com/user-attachments/assets/674a906d-3edc-46eb-b806-1a281d371b6b) |
+| ![슬라이드49](https://github.com/user-attachments/assets/d1bc9a44-8d82-49ce-9b23-fbba31ce807b) | ![슬라이드50](https://github.com/user-attachments/assets/5de775c9-0c83-484b-9e73-a94230548d8c) |
+| ![슬라이드51](https://github.com/user-attachments/assets/c7bf2be9-1e65-4630-a55f-685286c04d3e) | ![슬라이드52](https://github.com/user-attachments/assets/05f498be-ddfe-4af5-bec8-e6d7bdb1319a) |
+| ![슬라이드53](https://github.com/user-attachments/assets/78376933-d8c2-4b47-ad34-220167454c30) | ![슬라이드54](https://github.com/user-attachments/assets/ea6c32f3-66f2-41f8-9c4f-f91098cc79bc) |
+| ![슬라이드55](https://github.com/user-attachments/assets/57a08018-d263-43a4-bddf-7e5dc369251d) | ![슬라이드56](https://github.com/user-attachments/assets/32e886dd-fc3e-442f-afb2-d19eb0a6d0f5) |
+| ![슬라이드57](https://github.com/user-attachments/assets/f222aa6d-50a5-4cea-a567-2b23218559ce) | ![슬라이드58](https://github.com/user-attachments/assets/36b7cb64-db6d-4e13-b23a-3a58a29d1ee8) |
+| ![슬라이드59](https://github.com/user-attachments/assets/50a9cc77-be75-4fd3-a377-fb86229b9da9) | ![슬라이드60](https://github.com/user-attachments/assets/bff12359-fb9a-44fb-bf47-d4ce3e64544a) |
+| ![슬라이드61](https://github.com/user-attachments/assets/36270ed7-6fdd-4160-bd3e-68a65365d5a4) | ![슬라이드62](https://github.com/user-attachments/assets/020de04d-4ee0-4f80-a822-06a38166a5dd) |
+| ![슬라이드63](https://github.com/user-attachments/assets/c1df45dd-c490-4741-9597-5ecdc1e423b4) | ![슬라이드64](https://github.com/user-attachments/assets/4f4a0dc0-ba6d-4d53-96a6-cbb75f00dd89) |
+| ![슬라이드65](https://github.com/user-attachments/assets/a2d2ed80-ab46-4022-b067-195623e749fa) | ![슬라이드66](https://github.com/user-attachments/assets/713c6652-ce70-4176-874a-9fe258bbe3cf) |
+| ![슬라이드67](https://github.com/user-attachments/assets/ac101651-b00d-478a-9ab5-d5bf00fe9914) | ![슬라이드68](https://github.com/user-attachments/assets/23d6921f-f7e3-49b3-803f-5d3136497f6d) |
+| ![슬라이드69](https://github.com/user-attachments/assets/5a59d452-fe2a-4c3e-affd-9dd59c5369cb) | ![슬라이드70](https://github.com/user-attachments/assets/b90f6e07-ac4c-4849-86db-a22853a633b1) |
+| ![슬라이드71](https://github.com/user-attachments/assets/96900c85-e078-4b92-8cd8-190d2759030a) | ![슬라이드72](https://github.com/user-attachments/assets/77337706-26e8-477a-87cc-7cbb5bfbd2fe) |
+| ![슬라이드73](https://github.com/user-attachments/assets/b45fa5cb-b5f3-484c-b877-80e4da60afca) | ![슬라이드74](https://github.com/user-attachments/assets/962a87be-df0e-4f25-8bc1-24121d537bdd) |
+| ![슬라이드75](https://github.com/user-attachments/assets/6353ffb5-e417-45fc-90f9-d5afc8caa729) | ![슬라이드76](https://github.com/user-attachments/assets/323714b9-61ae-4a9f-8313-81f23565a097) |
+| ![슬라이드77](https://github.com/user-attachments/assets/ec66b0ec-74eb-4b62-994e-7ca023377d44) | ![슬라이드78](https://github.com/user-attachments/assets/66c3b5c0-07d6-4292-9bb3-d93f0d2dcd84) |
+| ![슬라이드79](https://github.com/user-attachments/assets/ec0d674d-0248-428a-aa99-38b7c9906bbe) | ![슬라이드80](https://github.com/user-attachments/assets/d5ecb41e-c907-45c9-80af-9354feefd676) |
+| ![슬라이드81](https://github.com/user-attachments/assets/f101b531-cf98-43e7-887a-5118f7d1be5b) | ![슬라이드82](https://github.com/user-attachments/assets/4632f8b7-4a0d-4a19-a07e-d72b59aac2d1) |
+| ![슬라이드83](https://github.com/user-attachments/assets/4b579774-89ff-466e-b1a9-dae1a2337006) | ![슬라이드84](https://github.com/user-attachments/assets/d08f3435-fc67-4e43-b4ab-4a3908f84488) |
+| ![슬라이드85](https://github.com/user-attachments/assets/e01ce4e5-ed30-4ad6-91cc-eca8befc2f28) | ![슬라이드86](https://github.com/user-attachments/assets/904fac38-410f-4355-a156-6806156e0cd7) |
+| ![슬라이드87](https://github.com/user-attachments/assets/31ad0389-6512-4d37-afc3-75cd53314b2e) | ![슬라이드88](https://github.com/user-attachments/assets/fba4c27f-bd0f-464f-93d8-5dbaee4662cc) |
+| ![슬라이드89](https://github.com/user-attachments/assets/f8a76825-4699-4472-a675-24be8aa21e96) | ![슬라이드90](https://github.com/user-attachments/assets/cccb6e68-d771-492a-a6e1-e3e52f6e6b83) |
 
-| 
-        |          |
-| :------: |  :------: |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-
-
-
-
-
-
-
-
-
-
+</div>
 </details>
-
-
 </br>
 
 ## 🚀 개선사항
