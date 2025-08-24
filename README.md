@@ -29,11 +29,14 @@
 ## 🧩 프로젝트 설계
 <h3 align="center">Usecase Diagram</h3>
 
-유스케이스 다이어그램 사진
+![슬라이드11](https://github.com/user-attachments/assets/2bd4ced0-ffd7-4e63-91f1-38c3b198bc04)
+
 
 <h3 align="center">ERD</h3>
 
-erd 다이어그램 사진
+<img width="1010" height="740" alt="erd_member" src="https://github.com/user-attachments/assets/4842ca1f-3c1d-4876-bb7e-40673f1204d2" />
+<img width="761" height="701" alt="erd_product" src="https://github.com/user-attachments/assets/53986546-615d-4320-b935-4dd93a427d37" />
+
 
 <h3 align="center">Class Diagram</h3>
 
