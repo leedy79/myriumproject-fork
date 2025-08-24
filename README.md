@@ -220,7 +220,8 @@ erd 다이어그램 사진
 <details><summary>PPT</summary>
   <div align="center">          
 
-|            |          |
+|    ![Uploading 슬라이드1.JPG…]()
+        |          |
 | :------: |  :------: |
 |  |  |
 |  |  |
