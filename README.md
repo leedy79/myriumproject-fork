@@ -29,14 +29,14 @@
 - ETC : `Git`, `google Sheets`, `draw.io`, `erdCloud`, `sourcetree`
 
 ## 🧩 프로젝트 설계
-# **🕵️‍♂️UseCase**  
+### **🕵️‍♂️UseCase**  
 ![usecase_diagram](https://github.com/user-attachments/assets/bde25637-7452-48dc-a903-5487936d4b69)
 
-# **💿ERD**
+### **💿ERD**
 <img width="1010" height="740" alt="erd_member" src="https://github.com/user-attachments/assets/4842ca1f-3c1d-4876-bb7e-40673f1204d2" />
 <img width="761" height="701" alt="erd_product" src="https://github.com/user-attachments/assets/53986546-615d-4320-b935-4dd93a427d37" />
 
-# **🔗Class Diagram**
+### **🔗Class Diagram**
 
 <details><summary><h2 align="center">Class Diagram(🖱클릭 : 보기)</h2></summary>
 <h3>⛓UploadController</h3>
@@ -93,6 +93,43 @@
 <img width="2361" height="1100" alt="Diagram_AdminBoardController" src="https://github.com/user-attachments/assets/7edb5e8d-b6d8-443f-9a1f-3b4263d580ee" />
 </details>
 
+## 💻 담당파트 핵심기능(관리자 페이지)
+
+### 상품관리
+- 의류 쇼핑몰 사이트를 이용해 상품정보 DB 저장
+- 상품 정렬(낮은 가격, 높은 가격, 등록순)
+- 상품 검색(상품이름, 카테고리, 색상, 색상+상품이름)
+- 관심상품
+- 상품 정보 제공
+
+### 회원관리
+- 소셜 로그인 및 간편 회원가입
+- 이메일 중복 처리
+- 비밀번호 암호화 처리
+- 다음 우편주소 API
+- 마이페이지(장바구니, 관심상품, 사용 가능한 쿠폰, 주문내역, 배송지 관리, 내 게시글) 
+- 유저 정보 수정
+- 비밀번호 찾기
+
+### 공지관리
+- 상품 장바구니에 담기 및 제거
+- 실시간 수량 수정후 결제
+- 같은 상품, 같은 사이즈 장바구니 담을 시 수량 증가
+
+### FAQ관리
+- 장바구니 상품 주문
+- 주문 정보 확인
+- IamportAPI 이용한 결제
+
+### 문의관리
+- 리뷰작성
+
+### 주문관리
+- 상품 등록
+- 상품 재고 및 이미지 수정
+- 유저관리 및 통계, 공지사항 CRUD
+- 배송관련
+- 고객의 문의 답변
 
 ## 🖥️ 실행 화면
 
