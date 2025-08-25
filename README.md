@@ -325,9 +325,9 @@
 <details><summary><h2 align="center">🖱클릭 : 보기</h2></summary>
 <div align="center">
   
-| ![슬라이드1](https://github.com/user-attachments/assets/a661b7a1-bef1-4f73-9eaa-199a6941794f) | ![슬라이드2](https://github.com/user-attachments/assets/2f4b8ff6-87b3-4823-906f-ac0796d7ce33) |
+| ![슬라이드1](https://github.com/user-attachments/assets/a661b7a1-bef1-4f73-9eaa-199a6941794f) | ![empty](https://github.com/user-attachments/assets/52e3f973-968d-4790-966b-93ded9b78feb) |
 | :---: | :---: |
-| ![슬라이드3](https://github.com/user-attachments/assets/a0461576-fadf-4eb2-bd13-fa96e374fadc) | ![슬라이드4](https://github.com/user-attachments/assets/33865d89-16d3-4f24-88ba-5a12f0ef57ac) |
+| ![슬라이드2](https://github.com/user-attachments/assets/2f4b8ff6-87b3-4823-906f-ac0796d7ce33) | ![슬라이드4](https://github.com/user-attachments/assets/33865d89-16d3-4f24-88ba-5a12f0ef57ac) |
 | ![슬라이드5](https://github.com/user-attachments/assets/b7b311a0-b848-4ab0-985d-c21fabad2dff) | ![슬라이드6](https://github.com/user-attachments/assets/f4862103-6fbb-46ab-b580-b6bef6b77968) |
 | ![슬라이드7](https://github.com/user-attachments/assets/d1d98d88-e420-48fc-b49d-e26bd8577ebe) | ![슬라이드8](https://github.com/user-attachments/assets/466da45f-827e-45b5-9846-0309fbde46a4) |
 | ![슬라이드9](https://github.com/user-attachments/assets/775db930-1b1a-4be7-817d-1fa9d221a887) | ![슬라이드10](https://github.com/user-attachments/assets/990f6e2e-6b00-466e-98a9-804be468f0cc) |
@@ -371,6 +371,7 @@
 | ![슬라이드85](https://github.com/user-attachments/assets/e01ce4e5-ed30-4ad6-91cc-eca8befc2f28) | ![슬라이드86](https://github.com/user-attachments/assets/904fac38-410f-4355-a156-6806156e0cd7) |
 | ![슬라이드87](https://github.com/user-attachments/assets/31ad0389-6512-4d37-afc3-75cd53314b2e) | ![슬라이드88](https://github.com/user-attachments/assets/fba4c27f-bd0f-464f-93d8-5dbaee4662cc) |
 | ![슬라이드89](https://github.com/user-attachments/assets/f8a76825-4699-4472-a675-24be8aa21e96) | ![슬라이드90](https://github.com/user-attachments/assets/cccb6e68-d771-492a-a6e1-e3e52f6e6b83) |
+<!-- <div>  ![슬라이드3](https://github.com/user-attachments/assets/a0461576-fadf-4eb2-bd13-fa96e374fadc) </div> -->
 </div>
 </details>
 </br>
