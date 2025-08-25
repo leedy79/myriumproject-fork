@@ -11,6 +11,7 @@
 - [개요](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%EA%B0%9C%EC%9A%94)
 - [기술 스택](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 - [프로젝트 설계](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+- [핵심기능](https://github.com/leedy79/myriumproject-fork/tree/main?tab=readme-ov-file#-%EB%8B%B4%EB%8B%B9%ED%8C%8C%ED%8A%B8%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5)
 - [실행 화면](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4)
 - [PPT](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-ppt)
 - [개선사항](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%EA%B0%9C%EC%84%A0%EC%82%AC%ED%95%AD)
