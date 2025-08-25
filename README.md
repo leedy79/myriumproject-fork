@@ -10,11 +10,10 @@
 
 - [개요](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%EA%B0%9C%EC%9A%94)
 - [기술 스택](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
-- [프로젝트 설계](https://github.com/leedy79/myriumproject-fork#-프로젝트-설계)
-- [실행 화면](https://github.com/leedy79/myriumproject-fork#-실행-화면)
+- [프로젝트 설계](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
 - [실행 화면](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4)
-- [PPT](https://github.com/leedy79/myriumproject-fork#-PPT)
-- [개선사항](https://github.com/leedy79/myriumproject-fork#-개선사항)
+- [PPT](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-ppt)
+- [개선사항](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#-%EA%B0%9C%EC%84%A0%EC%82%AC%ED%95%AD)
 
 ## 📖 개요
 - 프로젝트 목표 : Spring MVC 기반으로 마이리움 클론 사이트를 제작하여, 실제 전자상거래 환경에서 상품 조회, 장바구니, 주문 등의 기능을 구현
