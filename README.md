@@ -8,7 +8,7 @@
 
 ## 📌 목차
 
-- [개요](https://github.com/leedy79/myriumproject-fork#-개요)
+- [개요](https://github.com/leedy79/myriumproject-fork#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
 - [기술 스택](https://github.com/leedy79/myriumproject-fork#-기술-스택)
 - [프로젝트 설계](https://github.com/leedy79/myriumproject-fork#-프로젝트-설계)
 - [실행 화면](https://github.com/leedy79/myriumproject-fork#-실행-화면)
