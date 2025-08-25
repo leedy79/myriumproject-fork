@@ -12,6 +12,7 @@
 - [기술 스택](https://github.com/leedy79/myriumproject-fork#-기술-스택)
 - [프로젝트 설계](https://github.com/leedy79/myriumproject-fork#-프로젝트-설계)
 - [실행 화면](https://github.com/leedy79/myriumproject-fork#-실행-화면)
+- [실행 화면](https://github.com/leedy79/myriumproject-fork?tab=readme-ov-file#%EF%B8%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4)
 - [PPT](https://github.com/leedy79/myriumproject-fork#-PPT)
 - [개선사항](https://github.com/leedy79/myriumproject-fork#-개선사항)
 
