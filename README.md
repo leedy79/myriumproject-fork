@@ -1,46 +1,97 @@
-홈 페이지 이미지 넣을곳
+![babysbreath_detail](https://github.com/user-attachments/assets/9f1b8e1e-73c1-4067-b591-d0db3fb503de)
+![Screenshot 2025-08-24 at 17 30 21](https://github.com/user-attachments/assets/9806a0a3-8eec-46a1-be65-47bafa622215)
+
 
 <h1 align="center">📚 마이리움 팀 프로젝트</h1>
-<p align="center">JSP와 Servlet 기반으로 구현된 동적 웹 프로젝트</p>
+<p align="center">Spring MVC 기반 3인 협작 클론 사이트 프로젝트입니다.</p>
 <br/>
 
 ## 📌 목차
 
-- [개요](https://github.com/notuna87/noh_aladinJSP#-개요)
-- [기술 스택](https://github.com/notuna87/noh_aladinJSP#-기술-스택)
-- [프로젝트 설계](https://github.com/notuna87/noh_aladinJSP#-프로젝트-설계)
-- [실행 화면](https://github.com/notuna87/noh_aladinJSP#-실행-화면)
-- [PPT](https://github.com/notuna87/noh_aladinJSP#-PPT)
-- [개선사항](https://github.com/notuna87/noh_aladinJSP#-개선사항)
+- [개요](https://github.com/leedy79/myriumproject-fork#-개요)
+- [기술 스택](https://github.com/leedy79/myriumproject-fork#-기술-스택)
+- [프로젝트 설계](https://github.com/leedy79/myriumproject-fork#-프로젝트-설계)
+- [실행 화면](https://github.com/leedy79/myriumproject-fork#-실행-화면)
+- [PPT](https://github.com/leedy79/myriumproject-fork#-PPT)
+- [개선사항](https://github.com/leedy79/myriumproject-fork#-개선사항)
 
 ## 📖 개요
-- 프로젝트 목표 : 
-- 개발 기간 :
+- 프로젝트 목표 : Spring MVC 기반으로 마이리움 클론 사이트를 제작하여, 실제 전자상거래 환경에서 상품 조회, 장바구니, 주문 등의 기능을 구현
+- 개발 기간 : 2025.07.16 ~ 2025.08.14
 
 ## 🛠️ 기술 스택
 - Language : `JAVA(11)`, `JavaScript(1.5)`
-- Framework / Library: `JSP(JavaServer Pages)(2.3)`, `Servlet(4.0)`, `JSTL`, `JDBC`,`DBManager`,`EL`,`jQuery`
-- Database : `Mysql(8.0)`
+- Framework / Library: `JSP(JavaServer Pages)(2.3)`, `JSTL`, `JDBC`,`DBManager`,`EL`,`jQuery`,`Lombok`
+- Database : `Oracle 11g XE (11.2.0.2.0)`
 - Server : `Apache Tomcat(9.0.70)`
-- Tool : `Eclipse IDE (4.29.0)`
-- API : `Kakao Book Search API`
-- ETC : `Git`
+- Tool : `Spring Tool Suite 3`
+- API : `Daum postCode API`
+- ETC : `Git`, `google Sheets`, `draw.io`, `erdCloud`, `sourcetree`
 
 ## 🧩 프로젝트 설계
-<h3 align="center">Usecase Diagram</h3>
+# **🕵️‍♂️UseCase**  
+![usecase_diagram](https://github.com/user-attachments/assets/bde25637-7452-48dc-a903-5487936d4b69)
 
-![슬라이드11](https://github.com/user-attachments/assets/2bd4ced0-ffd7-4e63-91f1-38c3b198bc04)
-
-
-<h3 align="center">ERD</h3>
-
+# **💿ERD**
 <img width="1010" height="740" alt="erd_member" src="https://github.com/user-attachments/assets/4842ca1f-3c1d-4876-bb7e-40673f1204d2" />
 <img width="761" height="701" alt="erd_product" src="https://github.com/user-attachments/assets/53986546-615d-4320-b935-4dd93a427d37" />
 
+# **🔗Class Diagram**
 
-<h3 align="center">Class Diagram</h3>
-
-클래스 다이어그램 사진
+<details><summary><h2 align="center">Class Diagram(🖱클릭 : 보기)</h2></summary>
+<h3>⛓UploadController</h3>
+<img width="2200" height="1347" alt="Diagram_UploadController" src="https://github.com/user-attachments/assets/95f413e3-6508-44ee-bc83-0cdf7372487c" />
+<h3>⛓TotalReviewController</h3>
+<img width="1271" height="724" alt="Diagram_TotalReviewController" src="https://github.com/user-attachments/assets/dbb13257-40bb-40d2-9867-9bc67c14041d" />
+<h3>⛓SubController</h3>
+<img width="2234" height="1259" alt="Diagram_SubController" src="https://github.com/user-attachments/assets/63e078eb-4fbd-488d-b62b-bbbadb3b3a0e" />
+<h3>⛓SearchController</h3>
+<img width="1602" height="1185" alt="Diagram_SearchController" src="https://github.com/user-attachments/assets/c6a32127-e257-4edb-be40-6096fcae2cc1" />
+<h3>⛓ReviewController</h3>
+<img width="2082" height="2085" alt="Diagram_ReviewController" src="https://github.com/user-attachments/assets/72f3a7c4-f4ed-4ef5-9ad1-434e8f8edfd0" />
+<h3>⛓ReplyController</h3>
+<img width="1509" height="916" alt="Diagram_ReplyController" src="https://github.com/user-attachments/assets/4785b72d-5ece-4531-8113-1b72af856008" />
+<h3>⛓PurchaseController</h3>
+<img width="2314" height="2085" alt="Diagram_PurchaseController" src="https://github.com/user-attachments/assets/b667aba8-2544-4419-beee-f87191dc0e91" />
+<h3>⛓OrderdetailController</h3>
+<img width="1209" height="1138" alt="Diagram_OrderdetailController" src="https://github.com/user-attachments/assets/23629644-65fd-427a-ba63-0d745d10b7f2" />
+<h3>⛓MypageController</h3>
+<img width="1170" height="1208" alt="Diagram_MypageController" src="https://github.com/user-attachments/assets/b71c2c5b-5a30-4c6f-8943-7c2189cd4a99" />
+<h3>⛓MemberupdateController</h3>
+<img width="1475" height="1119" alt="Diagram_MemberupdateController" src="https://github.com/user-attachments/assets/c41d3ba2-3da9-4512-ba2e-96fe92999f52" />
+<h3>⛓MemberRestController</h3>
+<img width="1281" height="1069" alt="Diagram_MemberRestController" src="https://github.com/user-attachments/assets/6e85674c-c6fa-415b-b4f8-c66b8209d104" />
+<h3>⛓MemberController</h3>
+<img width="1932" height="747" alt="Diagram_MemberController" src="https://github.com/user-attachments/assets/a7885bfd-8a0a-465d-850c-6c44a521e04e" />
+<h3>⛓JoinController</h3>
+<img width="1410" height="851" alt="Diagram_JoinController" src="https://github.com/user-attachments/assets/354d0199-7771-4a95-b8bb-a7cfa15d1484" />
+<h3>⛓HomeController</h3>
+<img width="1614" height="1330" alt="Diagram_HomeController" src="https://github.com/user-attachments/assets/537ff07b-6190-41de-a97a-6acec7f8c7c4" />
+<h3>⛓FindpwController</h3>
+<img width="1380" height="927" alt="Diagram_FindpwController" src="https://github.com/user-attachments/assets/2c90fa72-2c4b-4850-a593-5b173c09bc97" />
+<h3>⛓FindidController</h3>
+<img width="1463" height="1016" alt="Diagram_FindidController" src="https://github.com/user-attachments/assets/d10db07d-b6d8-445e-9751-ff04e4a69b23" />
+<h3>⛓EtcController</h3>
+<img width="1156" height="576" alt="Diagram_EtcController" src="https://github.com/user-attachments/assets/0b5ba722-2752-456a-a183-6dac795fd5c6" />
+<h3>⛓CategoryPageController</h3>
+<img width="1675" height="1191" alt="Diagram_CategoryPageController" src="https://github.com/user-attachments/assets/6e3c099b-3f25-4cdb-a017-7d8247bb85a2" />
+<h3>⛓CartController</h3>
+<img width="1958" height="1352" alt="Diagram_CartController" src="https://github.com/user-attachments/assets/c6afbfb7-04d0-406c-a0e5-74f9bca70d57" />
+<h3>⛓AdminReviewController</h3>
+<img width="1356" height="978" alt="Diagram_AdminReviewController" src="https://github.com/user-attachments/assets/e189804b-4f76-479c-8d75-3074f949c0c0" />
+<h3>⛓AdminProductController</h3>
+<img width="1954" height="1348" alt="Diagram_AdminProductController" src="https://github.com/user-attachments/assets/c0eecd98-7b29-40da-9d70-9a2d2638dfb5" />
+<h3>⛓AdminOrderController</h3>
+<img width="1367" height="951" alt="Diagram_AdminOrderController" src="https://github.com/user-attachments/assets/9d46a3aa-d5d5-47a7-b880-102180798df2" />
+<h3>⛓AdminNoticeController</h3>
+<img width="1642" height="904" alt="Diagram_AdminNoticeController" src="https://github.com/user-attachments/assets/7f82b528-73ea-4612-afb5-d38c51c161df" />
+<h3>⛓AdminMemberController</h3>
+<img width="1656" height="991" alt="Diagram_AdminMemberController" src="https://github.com/user-attachments/assets/ed83d685-bea2-42ce-b190-471321abd429" />
+<h3>⛓AdminFaqController</h3>
+<img width="809" height="567" alt="Diagram_AdminFaqController" src="https://github.com/user-attachments/assets/c1c378c6-3086-4147-ab8e-f430d6b41a65" />
+<h3>⛓AdminBoardController</h3>
+<img width="2361" height="1100" alt="Diagram_AdminBoardController" src="https://github.com/user-attachments/assets/7edb5e8d-b6d8-443f-9a1f-3b4263d580ee" />
+</details>
 
 
 ## 🖥️ 실행 화면
@@ -220,7 +271,7 @@
       <br>
        
 ## 🗂️ PPT
-<details><summary>PPT</summary>
+<details><summary><h2 align="center">PPT(🖱클릭 : 보기)</h2></summary>
 <div align="center">
   
 | ![슬라이드1](https://github.com/user-attachments/assets/a661b7a1-bef1-4f73-9eaa-199a6941794f) | ![슬라이드2](https://github.com/user-attachments/assets/2f4b8ff6-87b3-4823-906f-ac0796d7ce33) |
@@ -269,11 +320,36 @@
 | ![슬라이드85](https://github.com/user-attachments/assets/e01ce4e5-ed30-4ad6-91cc-eca8befc2f28) | ![슬라이드86](https://github.com/user-attachments/assets/904fac38-410f-4355-a156-6806156e0cd7) |
 | ![슬라이드87](https://github.com/user-attachments/assets/31ad0389-6512-4d37-afc3-75cd53314b2e) | ![슬라이드88](https://github.com/user-attachments/assets/fba4c27f-bd0f-464f-93d8-5dbaee4662cc) |
 | ![슬라이드89](https://github.com/user-attachments/assets/f8a76825-4699-4472-a675-24be8aa21e96) | ![슬라이드90](https://github.com/user-attachments/assets/cccb6e68-d771-492a-a6e1-e3e52f6e6b83) |
-
 </div>
 </details>
 </br>
 
 ## 🚀 개선사항
 </br>
+<h3>1. 타임세일 기능 미구현</h3>
+<p>- 아쉬운점 : 특정 시간에 상품이 자동 종료되는 기능을 구현하지 못함</p>
+<p>- 개선점 : 스케쥴러를 활용하여 자동화 기능을 추가할 예정</p>
 
+<h3>2. VO와 DTO를 깔끔하게 정리하지 못하였음</h3>
+<p>- 아쉬운점 : VO와 DTO의 역할이 명확하지 않아 코드 구조가 혼란 스러움</p>
+<p>- 개선점 : DTO는 데이터 전달, VO는 값 표현 객체로 일관성 있도록 조정</p>
+
+<h3>3. 예외처리 미흡</h3>
+<p>- 아쉬운점 : 오류 발생 시 사용자 친화적인 안내 부족</p>
+<p>- 개선점 : 공통 에러 페이지 및 예외 처리 로직 강화</p>
+
+<h3>4. 테스트 코드 부족</h3>
+<p>- 아쉬운점 : 기능별 단위 테스트 및 통합 테스트가 충분하지 않음</p>
+<p>- 개선점 : JUnit, Mockito 등을 활용하여 테스트 코드 보강</p>
+
+<h3>5. 공통 모듈화 부족</h3>
+<p>- 아쉬운점 : 일부 코드가 중복되어 유지 보수성이 떨어짐</p>
+<p>- 개선점 : 공통 모듈 및 유틸 클래스로 중복 제거</p>
+
+<h3>6. 쿠폰 시스템 미구현</h3>
+<p>- 아쉬운점 : 할인 및 프로모션 기능이 제공되지 않음 </p>
+<p>- 개선점 : 쿠폰 발급 및 적용 로직 추가 예정</p>
+
+<h3>7. 결제 API 미적용</h3>
+<p>- 아쉬운점 : 시간 부족으로 인하여 외부 결제 서비스와의 연동이 이루어지지 않음 </p>
+<p>- 개선점 : 결제 API 연동 예정</p>
