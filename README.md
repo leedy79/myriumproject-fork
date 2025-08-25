@@ -39,7 +39,7 @@
 
 ### **🔗Class Diagram**
 
-<details><summary><h2 align="center">🖱클릭 : 보기</h2></summary>
+<details><summary><h3 align="center">🖱클릭 : 보기</h3></summary>
 <h3>⛓UploadController</h3>
 <img width="2200" height="1347" alt="Diagram_UploadController" src="https://github.com/user-attachments/assets/95f413e3-6508-44ee-bc83-0cdf7372487c" />
 <h3>⛓TotalReviewController</h3>
@@ -336,7 +336,7 @@
 </br>
        
 ## 🗂️ PPT
-<details><summary><h2 align="center">🖱클릭 : 보기</h2></summary>
+<details><summary><h3 align="center">🖱클릭 : 보기</h3></summary>
 <div align="center">
   
 | ![슬라이드1](https://github.com/user-attachments/assets/a661b7a1-bef1-4f73-9eaa-199a6941794f) | ![empty](https://github.com/user-attachments/assets/52e3f973-968d-4790-966b-93ded9b78feb) |
