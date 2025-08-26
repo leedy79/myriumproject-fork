@@ -39,7 +39,7 @@
 
 ### **🔗Class Diagram**
 
-<details><summary><h3 align="center">🖱클릭 : 보기</h3></summary>
+<details><summary><h3 align="center">🖱클릭 : 접기/펼치기</h3></summary>
 <h3>⛓UploadController</h3>
 <img width="2200" height="1347" alt="Diagram_UploadController" src="https://github.com/user-attachments/assets/95f413e3-6508-44ee-bc83-0cdf7372487c" />
 <h3>⛓TotalReviewController</h3>
@@ -98,7 +98,7 @@
 ### 1. 관리자 페이지(대쉬보드)
 - 관리자 로그인 시 대쉬보드로 진입
   
-<details><summary><h3 align="center">🖱클릭 : 대쉬보드 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 대쉬보드 실행화면 접기/펼치기</h3></summary>
 
   * **1 관리자로그인**
     * 관리자 권한이 있는 회원이 로그인 시 `관리자페이지 대쉬보드`로 이동합니다.
@@ -113,7 +113,7 @@
 - 전시(비노출, 전시) 관리 및 삭제
 - 상품정보 수정(기본정보 수정, 이미지 삭제, 신규 업로드, 대표이미지 변경)
   
-<details><summary><h3 align="center">🖱클릭 : 상품관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 상품관리 실행화면 접기/펼치기</h3></summary>
  
   * **2-1 상품등록, 이미지 업로드**
     * 상품목록 페이지에서 `등록`을 통해 새로운 상품을 등록할 수 있습니다.
@@ -152,7 +152,7 @@
 - 계정활동(비활성, 활성) 관리 및 삭제
 - 회원정보 수정(기본정보 및 부가정보 수정)
 
-<details><summary><h3 align="center">🖱클릭 : 회원관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 회원관리 실행화면 접기/펼치기</h3></summary>
 
   * **3-1 필터, 검색, 페이징**
     * 회원목록에서 `필터와 검색`을 통해 원하는 회원을 찾을 수 있습니다.
@@ -183,7 +183,7 @@
 - 게시(비노출, 노출) 관리 및 삭제
 - 공지내용 수정(제목, 내용 수정, 첨부파일 삭제, 신규 업로드)
   
-<details><summary><h3 align="center">🖱클릭 : 공지관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 공지관리 실행화면 접기/펼치기</h3></summary>
 
   * **4-1 공지등록, 파일 업로드**
     * 공지목록 페이지에서 `등록`을 통해 새로운 공지를 등록할 수 있습니다.
@@ -222,7 +222,7 @@
 - 게시(비노출, 노출) 관리 및 삭제
 - FAQ내용 수정(질문, 답변내용 수정)
 
-<details><summary><h3 align="center">🖱클릭 : FAQ관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : FAQ관리 실행화면 접기/펼치기</h3></summary>
 
   * **5-1 FAQ목록, 아코디언방식 내용보기**
     * 공지목록을 질문내용을 유형별로 구분하여 `아코디언 방식`으로 펼치기 접기로 내용을 보여줍니다.
@@ -254,7 +254,7 @@
 - 상품 리뷰목록 출력(모달)
 - 게시(비노출, 노출) 관리 및 삭제
 
-<details><summary><h3 align="center">🖱클릭 : 리뷰관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 리뷰관리 실행화면 접기/펼치기</h3></summary>
 
   * **6 검색, 페이징, 비노출, 복구, 삭제**
     * 리뷰목록은 상품별 리뷰현황을 보여주며 `검색`을 통해 원하는 상품의 리뷰를 찾을 수 있습니다.
@@ -275,7 +275,7 @@
 - 게시(비노출, 노출) 관리 및 삭제
 - 문의내용 수정(제목, 내용 수정)
 
-<details><summary><h3 align="center">🖱클릭 : 문의관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 문의관리 실행화면 접기/펼치기</h3></summary>
 
   * **7-1 문의등록, 추가문의 등록(채팅)**
     * 일반 사용자는 문의목록 페이지에서 `등록`을 통해 새로운 문의를 등록할 수 있습니다. `미답변` 라벨이 생성됩니다.
@@ -318,7 +318,7 @@
 - 주문 상품목록 테이블 출력(모달)
 - 주문상태, 처리상태 변경 (예)상품발송 후 `배송중` 처리
 
-<details><summary><h3 align="center">🖱클릭 : 주문관리 실행화면 보기</h3></summary>
+<details open><summary><h3 align="center">🖱클릭 : 주문관리 실행화면 접기/펼치기</h3></summary>
 
   * **8-1 필터, 검색, 페이징**
     * 주문목록에서 `필터와 검색`을 통해 원하는 주문을 찾을 수 있습니다. `초기화`는 필터 조건을 초기화합니다.
